@@ -4,14 +4,10 @@
     "type": "image",
     "title": "وێنەی ڕۆژانە — Sunset Frame",
     "date": "2026-02-23",
-    "cover": "123.jpg",
-    "src": "123.jpg",
+    "cover": "media/123.jpg",
+    "src": "media/123.jpg",
     "caption": "posst crow",
-    "tags": [
-      "ڕۆژانە",
-      "وێنە",
-      "Cr0w"
-    ],
+    "tags": ["ڕۆژانە", "وێنە", "Cr0w"],
     "featured": true
   },
   {
@@ -20,37 +16,28 @@
     "title": "ڤیدیۆ (YouTube Embed) — Sample",
     "date": "2026-02-23",
     "cover": "media/thumb.jpg",
-    "src": "i6m_8_reel_12_6_2025_11_56_55 PM3781871772912606633.mp4",
+    "src": "media/i6m_8_reel_12_6_2025_11_56_55 PM3781871772912606633.mp4",
     "caption": "i6m_8_reel_12_6_2025_11_56_55 PM3781871772912606633.mp4",
-    "tags": [
-      "ڤیدیۆ",
-      "Reels"
-    ]
+    "tags": ["ڤیدیۆ", "Reels"]
   },
   {
     "id": "2026-02-23-003",
     "type": "news",
     "title": "هەواڵی ڕۆژانە — نمونە",
     "date": "2026-02-23",
-    "cover": "123.jpg",
+    "cover": "media/123.jpg",
     "excerpt": "ئەمە کورتەی هەواڵە. دەقەکەت لە content_html دابنێ…",
     "content_html": "<p>ئەمە <strong>نمونە</strong>ی هەواڵە. دەتوانیت لینک و دەقی زیاتر زیاد بکەیت.</p><p class='muted'>Tip: هەواڵەکان لە JSON دەنوسرێن چونکە site static ـە.</p>",
-    "tags": [
-      "هەوال",
-      "ڕۆژانە"
-    ]
+    "tags": ["هەوال", "ڕۆژانە"]
   },
   {
     "id": "2026-02-22-001",
     "type": "image",
     "title": "Street Shot — Night Vibes",
     "date": "2026-02-22",
-    "cover": "123.jpg",
-    "src": "123.jpg",
+    "cover": "media/123.jpg",
+    "src": "media/123.jpg",
     "caption": "نمونەی دووەم بۆ grid.",
-    "tags": [
-      "وێنە",
-      "Night"
-    ]
+    "tags": ["وێنە", "Night"]
   }
 ]
