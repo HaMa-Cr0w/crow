@@ -1,0 +1,56 @@
+[
+  {
+    "id": "2026-02-23-001",
+    "type": "image",
+    "title": "وێنەی ڕۆژانە — Sunset Frame",
+    "date": "2026-02-23",
+    "cover": "media/hero.jpg",
+    "src": "media/hero.jpg",
+    "caption": "نمونەی وێنە. فایلەکانی خۆت بخە ناو media/ و posts.json نوێ بکە.",
+    "tags": [
+      "ڕۆژانە",
+      "وێنە",
+      "Cr0w"
+    ],
+    "featured": true
+  },
+  {
+    "id": "2026-02-23-002",
+    "type": "video",
+    "title": "ڤیدیۆ (YouTube Embed) — Sample",
+    "date": "2026-02-23",
+    "cover": "media/thumb.jpg",
+    "src": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "caption": "نمونە. دەتوانیت mp4 یان YouTube embed بەکاربهێنیت.",
+    "tags": [
+      "ڤیدیۆ",
+      "Reels"
+    ]
+  },
+  {
+    "id": "2026-02-23-003",
+    "type": "news",
+    "title": "هەواڵی ڕۆژانە — نمونە",
+    "date": "2026-02-23",
+    "cover": "media/news.jpg",
+    "excerpt": "ئەمە کورتەی هەواڵە. دەقەکەت لە content_html دابنێ…",
+    "content_html": "<p>ئەمە <strong>نمونە</strong>ی هەواڵە. دەتوانیت لینک و دەقی زیاتر زیاد بکەیت.</p><p class='muted'>Tip: هەواڵەکان لە JSON دەنوسرێن چونکە site static ـە.</p>",
+    "tags": [
+      "هەوال",
+      "ڕۆژانە"
+    ]
+  },
+  {
+    "id": "2026-02-22-001",
+    "type": "image",
+    "title": "Street Shot — Night Vibes",
+    "date": "2026-02-22",
+    "cover": "media/shot.jpg",
+    "src": "media/shot.jpg",
+    "caption": "نمونەی دووەم بۆ grid.",
+    "tags": [
+      "وێنە",
+      "Night"
+    ]
+  }
+]

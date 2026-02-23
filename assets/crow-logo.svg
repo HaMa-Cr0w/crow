@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 420" role="img" aria-label="Crow logo">
+  <defs>
+    <linearGradient id="rg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7dd3fc"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <circle cx="210" cy="210" r="184" fill="#0b0f14" stroke="url(#rg)" stroke-width="10" filter="url(#soft)"/>
+
+  <g fill="#e8eef7">
+    <path d="M234 246c46-16 78-56 78-104 0-54-41-96-103-96-52 0-96 34-104 82-2 15 0 30 5 43-22 15-41 37-54 70 40-13 74-10 107 4 15 6 31 9 49 8 7 0 14-1 22-3z" opacity=".98"/>
+    <path d="M322 151c35 6 65 22 81 48-33-10-62-10-91-2 6-16 10-30 10-46z" opacity=".9"/>
+
+    <g id="wingL" transform-origin="175px 210px">
+      <path d="M92 287c30-68 72-98 128-110-12 32-12 66 11 97-51-14-94-10-139 13z" opacity=".95"/>
+    </g>
+
+    <g id="wingR" transform-origin="245px 206px">
+      <path d="M330 287c-18-18-48-33-88-40 20-34 22-70 8-104 45 13 82 50 105 120-11-1-20 1-25 24z" opacity=".85"/>
+    </g>
+
+    <circle cx="219" cy="154" r="7" fill="#0b0f14"/>
+  </g>
+</svg>
