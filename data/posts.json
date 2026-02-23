@@ -2,10 +2,10 @@
   {
     "id": "2026-02-23-001",
     "type": "image",
-    "title": "وێنەی ڕۆژانە — Sunset Frame",
+    "title": "ssssssssss",
     "date": "2026-02-23",
     "cover": "media/ab.jpg",
-    "src": "media/ab.jpgg",
+    "src": "media/ab.jpg",
     "caption": "posst crow",
     "tags": ["ڕۆژانە", "وێنە", "Cr0w"],
     "featured": true
@@ -25,7 +25,7 @@
     "type": "news",
     "title": "هەواڵی ڕۆژانە — نمونە",
     "date": "2026-02-23",
-    "cover": "media/123.jpg",
+    "cover": "ab.jpg",
     "excerpt": "ئەمە کورتەی هەواڵە. دەقەکەت لە content_html دابنێ…",
     "content_html": "<p>ئەمە <strong>نمونە</strong>ی هەواڵە. دەتوانیت لینک و دەقی زیاتر زیاد بکەیت.</p><p class='muted'>Tip: هەواڵەکان لە JSON دەنوسرێن چونکە site static ـە.</p>",
     "tags": ["هەوال", "ڕۆژانە"]
@@ -35,8 +35,8 @@
     "type": "image",
     "title": "Street Shot — Night Vibes",
     "date": "2026-02-22",
-    "cover": "media/123.jpg",
-    "src": "media/123.jpg",
+    "cover": "ab.jpg",
+    "src": "ab.jpg",
     "caption": "نمونەی دووەم بۆ grid.",
     "tags": ["وێنە", "Night"]
   }
