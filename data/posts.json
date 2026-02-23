@@ -4,8 +4,8 @@
     "type": "image",
     "title": "وێنەی ڕۆژانە — Sunset Frame",
     "date": "2026-02-23",
-    "cover": "Gemini_Generated_Image_m7hhzxm7hhzxm7hh.jpg",
-    "src": "Gemini_Generated_Image_m7hhzxm7hhzxm7hh.jpg",
+    "cover": "123.jpg",
+    "src": "123.jpg",
     "caption": "posst crow",
     "tags": [
       "ڕۆژانە",
@@ -32,7 +32,7 @@
     "type": "news",
     "title": "هەواڵی ڕۆژانە — نمونە",
     "date": "2026-02-23",
-    "cover": "media/news.jpg",
+    "cover": "123.jpg",
     "excerpt": "ئەمە کورتەی هەواڵە. دەقەکەت لە content_html دابنێ…",
     "content_html": "<p>ئەمە <strong>نمونە</strong>ی هەواڵە. دەتوانیت لینک و دەقی زیاتر زیاد بکەیت.</p><p class='muted'>Tip: هەواڵەکان لە JSON دەنوسرێن چونکە site static ـە.</p>",
     "tags": [
@@ -45,8 +45,8 @@
     "type": "image",
     "title": "Street Shot — Night Vibes",
     "date": "2026-02-22",
-    "cover": "i6m_8_reel_12_6_2025_11_56_55 PM3781871772912606633.mp4",
-    "src": "i6m_8_reel_12_6_2025_11_56_55 PM3781871772912606633.mp4",
+    "cover": "123.jpg",
+    "src": "123.jpg",
     "caption": "نمونەی دووەم بۆ grid.",
     "tags": [
       "وێنە",
